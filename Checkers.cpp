@@ -1,4 +1,4 @@
-/* Nicolas Wilhoit
+* Nicolas Wilhoit
    Max Anaya
    Mark Ortega
    The following code is for our multiplayer checkers program*/
